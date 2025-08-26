@@ -58,6 +58,7 @@ Makefile
 *.temp
 *.swp
 *.swo
+*.bak
 
 # OS generated files
 .DS_Store
