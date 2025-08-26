@@ -1,5 +1,7 @@
 # Pathfinding Game
 
+![Game Screenshot](assets/screenshot.png)
+
 A 2D maze game where you collect points while avoiding two AI enemies that use different pathfinding algorithms.
 
 ## Features
